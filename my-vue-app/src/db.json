@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "name": "paz",
+      "email": "paz@gmil.com",
+      "id": 4
+    },
+    {
+      "name": "juanito",
+      "email": "jauni@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "maue",
+      "email": "",
+      "id": 6
+    }
+  ]
+}
